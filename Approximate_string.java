@@ -8,7 +8,7 @@ public class Approximate_string {
 
     public static void main(String[] args) {
         // Read the text file and store its content in memory
-        readFile("output.txt");
+        readFile("input.txt");
 
         // Wait for user input and return suitable suggestions
         Scanner scanner = new Scanner(System.in);
